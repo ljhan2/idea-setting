@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="" password="">
+      <option name="address" value="https://b7j3uwrc.mirror.aliyuncs.com" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="" />
+    </DockerRegistry>
+  </component>
+</application>

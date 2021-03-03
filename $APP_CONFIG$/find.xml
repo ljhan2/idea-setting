@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="项目和库" />
+    <option name="defaultScopeName" value="项目和库" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="项目和库" />
+  </component>
+</application>
