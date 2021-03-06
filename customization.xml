@@ -5,5 +5,16 @@
       <path value="主菜单" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Android.MainToolBarActionGroup" is_group="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidConnectDebuggerAction" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
