@@ -1404,12 +1404,36 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ps1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psd1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psm1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
             </plugin>
           </value>
         </entry>
@@ -2712,6 +2736,11 @@
                       <FeaturePluginData displayName="Play 2 App" pluginName="org.intellij.scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
+                  <entry key="PowerShellRunType">
+                    <value>
+                      <FeaturePluginData displayName="PowerShell" pluginName="PowerShell" pluginId="com.intellij.plugin.adernov.powershell" />
+                    </value>
+                  </entry>
                   <entry key="QuarkusRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" />
@@ -2805,6 +2834,11 @@
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="jmh-id">
+                    <value>
+                      <FeaturePluginData displayName="Jmh" pluginName="JMH Java Microbenchmark Harness" pluginId="ru.artyushov" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
