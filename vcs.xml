@@ -266,9 +266,13 @@
           <option name="url" value="https://github.com/spring-io/start.spring.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/ssssssss-team/spider-flow.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\soft\ide\jetbrains\ideaIU2019.3\wk-ky" />
+    <option name="cloneParentDir" value="D:\soft\ide\jetbrains\ideaIU2019.3" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
