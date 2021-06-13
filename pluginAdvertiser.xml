@@ -305,7 +305,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1047,7 +1046,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1065,7 +1063,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1074,7 +1071,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1083,7 +1079,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1092,7 +1087,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1101,7 +1095,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1110,7 +1103,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2993,17 +2985,17 @@
                   </entry>
                   <entry key="exploded-ear">
                     <value>
-                      <FeaturePluginData displayName="JavaEE 应用程序: 分离型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="JavaEE 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="exploded-ejb">
                     <value>
-                      <FeaturePluginData displayName="EJB 应用程序: 分离型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="EJB 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="exploded-war">
                     <value>
-                      <FeaturePluginData displayName="Web 应用程序: 分离型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="Web 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="jar">
